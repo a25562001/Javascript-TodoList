@@ -2,6 +2,8 @@
 
 https://a25562001.github.io/Javascript-TodoList/todolist.html
 
+![image](todolist.png)
+
 ## 以下是從此次學習到的 JS 重點:
 
 ## 基本變數:
