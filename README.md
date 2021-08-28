@@ -1,5 +1,9 @@
 ## 網路自學 使用 JS 做出代辦事項功能
 
+https://a25562001.github.io/Javascript-TodoList/todolist.html
+
+## 以下是從此次學習到的 JS 重點:
+
 ## 基本變數:
 
 字串、數字、布林值、undefined、null
