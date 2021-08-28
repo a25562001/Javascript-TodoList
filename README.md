@@ -2,7 +2,7 @@
 
 https://a25562001.github.io/Javascript-TodoList/todolist.html
 
-![image](todolist.png)
+![image](https://github.com/a25562001/Javascript-TodoList/blob/main/TodoList.png)
 
 ## 以下是從此次學習到的 JS 重點:
 
